@@ -3,7 +3,7 @@ It's a shell script used for a basic recon of domain or host. New script will be
 
 
 Usage:
-git clone the repository;
+git clone repository;
 cd Tiny-Recon;
 chmod +x basicrecon.sh;
 ./basicrecon.sh example.com;
